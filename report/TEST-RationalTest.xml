@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="2" hostname="LAPTOP-RG29JPD2" name="RationalTest" skipped="0" tests="11" time="0.04" timestamp="2021-09-07T09:10:45">
+  <properties>
+    <property name="ant.project.invoked-targets" value="test" />
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment" />
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_271\jre\bin" />
+    <property name="java.vm.version" value="25.271-b09" />
+    <property name="ant.library.dir" value="D:\program files\JetBrains\IntelliJ IDEA 2020.3.3\lib\ant\lib" />
+    <property name="ant.version" value="Apache Ant(TM) version 1.10.5 compiled on July 10 2018" />
+    <property name="ant.java.version" value="1.8" />
+    <property name="java.vm.vendor" value="Oracle Corporation" />
+    <property name="java.vendor.url" value="http://java.oracle.com/" />
+    <property name="path.separator" value=";" />
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM" />
+    <property name="file.encoding.pkg" value="sun.io" />
+    <property name="user.script" value="" />
+    <property name="user.country" value="US" />
+    <property name="sun.java.launcher" value="SUN_STANDARD" />
+    <property name="sun.os.patch.level" value="" />
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification" />
+    <property name="user.dir" value="D:\Work\Year4Term1\QA\Rational" />
+    <property name="java.runtime.version" value="1.8.0_271-b09" />
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment" />
+    <property name="basedir" value="D:\Work\Year4Term1\QA\Rational" />
+    <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.8.0_271\jre\lib\endorsed" />
+    <property name="os.arch" value="amd64" />
+    <property name="java.io.tmpdir" value="C:\Users\I&apos;MWHI~1\AppData\Local\Temp\" />
+    <property name="ant.core.lib" value="D:\program files\JetBrains\IntelliJ IDEA 2020.3.3\lib\ant\lib\ant.jar" />
+    <property name="line.separator" value="&#xd;&#xa;" />
+    <property name="java.vm.specification.vendor" value="Oracle Corporation" />
+    <property name="user.variant" value="" />
+    <property name="os.name" value="Windows 10" />
+    <property name="ant.home" value="D:\program files\JetBrains\IntelliJ IDEA 2020.3.3\lib\ant" />
+    <property name="sun.jnu.encoding" value="MS874" />
+    <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_271\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files\Microsoft MPI\Bin\;&quot;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files\Java\jdk1.8.0_241\bin;C:\Program Files\Java\jdk1.8.0_271\bin&quot;;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64\compiler;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\iCLS\;C:\Program Files\Intel\Intel(R) Management Engine Components\iCLS\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Java\jdk1.8.0_271\bin;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\130\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\Tools\Binn\;C:\Program Files\Microsoft SQL Server\140\Tools\Binn\;C:\Program Files\Microsoft SQL Server\140\DTS\Binn\;D:\MinGW\bin;C:\Program Files\nodejs\;D:\Program Files\Git\cmd;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\150\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\150\DTS\Binn\;C:\Program Files\Azure Data Studio\bin;C:\flutter\flutter\bin;C:\Users\I&apos;m White\AppData\Local\Programs\Python\Python38\Scripts\;C:\Users\I&apos;m White\AppData\Local\Programs\Python\Python38\;C:\Users\I&apos;m White\AppData\Local\Microsoft\WindowsApps;D:\Microsoft VS Code\bin;C:\Users\I&apos;m White\AppData\Roaming\npm;C:\Program Files\Azure Data Studio\bin;C:\Users\I&apos;m White\AppData\Local\GitHubDesktop\bin;D:\Program Files\JetBrains\IntelliJ IDEA 2020.3.3\bin;;." />
+    <property name="java.specification.name" value="Java Platform API Specification" />
+    <property name="java.class.version" value="52.0" />
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers" />
+    <property name="os.version" value="10.0" />
+    <property name="ant.file" value="D:\Work\Year4Term1\QA\Rational\build.xml" />
+    <property name="user.home" value="C:\Users\I&apos;m White" />
+    <property name="user.timezone" value="" />
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob" />
+    <property name="java.specification.version" value="1.8" />
+    <property name="file.encoding" value="UTF-8" />
+    <property name="java.class.path" value="D:\program files\JetBrains\IntelliJ IDEA 2020.3.3\lib\ant\lib\ant-antlr.jar;D:\program files\JetBrains\IntelliJ IDEA 2020.3.3\lib\ant\lib\ant-apache-bcel.jar;D:\program files\JetBrains\IntelliJ IDEA 2020.3.3\lib\ant\lib\ant-apache-bsf.jar;D:\program files\JetBrains\IntelliJ IDEA 2020.3.3\lib\ant\lib\ant-apache-log4j.jar;D:\program files\JetBrains\IntelliJ IDEA 2020.3.3\lib\ant\lib\ant-apache-oro.jar;D:\program files\JetBrains\IntelliJ IDEA 2020.3.3\lib\ant\lib\ant-apache-regexp.jar;D:\program files\JetBrains\IntelliJ IDEA 2020.3.3\lib\ant\lib\ant-apache-resolver.jar;D:\program files\JetBrains\IntelliJ IDEA 2020.3.3\lib\ant\lib\ant-apache-xalan2.jar;D:\program files\JetBrains\IntelliJ IDEA 2020.3.3\lib\ant\lib\ant-commons-logging.jar;D:\program files\JetBrains\IntelliJ IDEA 2020.3.3\lib\ant\lib\ant-commons-net.jar;D:\program files\JetBrains\IntelliJ IDEA 2020.3.3\lib\ant\lib\ant-jai.jar;D:\program files\JetBrains\IntelliJ IDEA 2020.3.3\lib\ant\lib\ant-javamail.jar;D:\program files\JetBrains\IntelliJ IDEA 2020.3.3\lib\ant\lib\ant-jdepend.jar;D:\program files\JetBrains\IntelliJ IDEA 2020.3.3\lib\ant\lib\ant-jmf.jar;D:\program files\JetBrains\IntelliJ IDEA 2020.3.3\lib\ant\lib\ant-jsch.jar;D:\program files\JetBrains\IntelliJ IDEA 2020.3.3\lib\ant\lib\ant-junit.jar;D:\program files\JetBrains\IntelliJ IDEA 2020.3.3\lib\ant\lib\ant-junit4.jar;D:\program files\JetBrains\IntelliJ IDEA 2020.3.3\lib\ant\lib\ant-junitlauncher.jar;D:\program files\JetBrains\IntelliJ IDEA 2020.3.3\lib\ant\lib\ant-launcher.jar;D:\program files\JetBrains\IntelliJ IDEA 2020.3.3\lib\ant\lib\ant-netrexx.jar;D:\program files\JetBrains\IntelliJ IDEA 2020.3.3\lib\ant\lib\ant-swing.jar;D:\program files\JetBrains\IntelliJ IDEA 2020.3.3\lib\ant\lib\ant-testutil.jar;D:\program files\JetBrains\IntelliJ IDEA 2020.3.3\lib\ant\lib\ant-xz.jar;D:\program files\JetBrains\IntelliJ IDEA 2020.3.3\lib\ant\lib\ant.jar;C:\Program Files\Java\jdk1.8.0_271\lib\tools.jar;D:\program files\JetBrains\IntelliJ IDEA 2020.3.3\lib\idea_rt.jar" />
+    <property name="user.name" value="I&apos;m White" />
+    <property name="java.vm.specification.version" value="1.8" />
+    <property name="java.home" value="C:\Program Files\Java\jdk1.8.0_271\jre" />
+    <property name="sun.arch.data.model" value="64" />
+    <property name="sun.java.command" value="com.intellij.rt.ant.execution.AntMain2 -logger com.intellij.rt.ant.execution.IdeaAntLogger2 -inputhandler com.intellij.rt.ant.execution.IdeaInputHandler -buildfile D:\Work\Year4Term1\QA\Rational\build.xml test" />
+    <property name="java.specification.vendor" value="Oracle Corporation" />
+    <property name="user.language" value="en" />
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit" />
+    <property name="java.vm.info" value="mixed mode" />
+    <property name="java.version" value="1.8.0_271" />
+    <property name="java.ext.dirs" value="C:\Program Files\Java\jdk1.8.0_271\jre\lib\ext;C:\WINDOWS\Sun\Java\lib\ext" />
+    <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.8.0_271\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_271\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_271\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_271\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_271\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_271\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_271\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_271\jre\classes" />
+    <property name="java.vendor" value="Oracle Corporation" />
+    <property name="file.separator" value="\" />
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/" />
+    <property name="sun.cpu.endian" value="little" />
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle" />
+    <property name="ant.file.type" value="file" />
+    <property name="sun.desktop" value="windows" />
+    <property name="sun.cpu.isalist" value="amd64" />
+  </properties>
+  <testcase classname="RationalTest" name="testComparedTo" time="0.009" />
+  <testcase classname="RationalTest" name="testAdd" time="0.0" />
+  <testcase classname="RationalTest" name="testSubtract" time="0.001" />
+  <testcase classname="RationalTest" name="testEqual" time="0.003">
+    <failure type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError
+	at RationalTest.testEqual(Unknown Source)
+	at com.intellij.rt.ant.execution.AntMain2.main(AntMain2.java:31)
+</failure>
+  </testcase>
+  <testcase classname="RationalTest" name="testAdd2" time="0.0" />
+  <testcase classname="RationalTest" name="testComparedTo1" time="0.0" />
+  <testcase classname="RationalTest" name="testComparedTo2" time="0.0" />
+  <testcase classname="RationalTest" name="testToString" time="0.002">
+    <failure message="expected:&lt;[4/3]&gt; but was:&lt;[]&gt;" type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError: expected:&lt;[4/3]&gt; but was:&lt;[]&gt;
+	at RationalTest.testToString(Unknown Source)
+	at com.intellij.rt.ant.execution.AntMain2.main(AntMain2.java:31)
+</failure>
+  </testcase>
+  <testcase classname="RationalTest" name="testConstruct" time="0.0" />
+  <testcase classname="RationalTest" name="testDivide" time="0.0" />
+  <testcase classname="RationalTest" name="testMultiply" time="0.0" />
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
